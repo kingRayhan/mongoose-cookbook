@@ -1,0 +1,23 @@
+{
+    "name": "sequelize",
+    "version": "1.0.0",
+    "description": "This doc created for quickly get started with Sequelize api and save your from blotted bullshit official doc.",
+    "scripts": {
+        "dev": "gitbook serve",
+        "build": "gitbook build",
+        "postinstall": "gitbook install"
+    },
+    "keywords": [
+        "sequelize",
+        "doc"
+    ],
+    "author": {
+        "name": "kingrayhan",
+        "email": "md.raihan095@northsouth.edu",
+        "url": "https://rayhan.info"
+    },
+    "license": "ISC",
+    "devDependencies": {
+        "gitbook-cli": "^2.3.2"
+    }
+}

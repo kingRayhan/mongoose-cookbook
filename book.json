@@ -1,0 +1,32 @@
+{
+  "title": "Mongoose cookbook",
+  "language": "en",
+  "styles": {
+    "website": "assets/styles/website.css"
+  },
+  "plugins": [
+    "prism",
+    "-highlight",
+    "disqus",
+    "edit-link",
+    "contributors-each-page",
+    "last-modified"
+  ],
+  "pluginsConfig": {
+    "prism": {
+      "css": ["prismjs/themes/prism-okaidia.css"]
+    },
+    "disqus": {
+      "shortName": "mongoose-cookbook"
+    },
+    "edit-link": {
+      "base": "https://github.com/kingRayhan/sequelize-cookbook/edit/master",
+      "label": "Contribute on this page"
+    },
+    "contributors-each-page": {
+      "owner": "kingRayhan",
+      "repository": "sequelize-cookbook",
+      "title": "Contributors"
+    }
+  }
+}
